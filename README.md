@@ -20,6 +20,7 @@ This sample app is intended to demonstrate a non-trivial ui-router application.
 - Lazy loaded Angular modules (contacts/mymessages/prefs submodules)
 
 ---
+#
 
 ### Visualizer
 
